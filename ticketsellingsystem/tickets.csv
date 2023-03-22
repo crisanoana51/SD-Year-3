@@ -1,0 +1,6 @@
+ID, NumberPlaces, ConcertID,Price
+Ticket{id=1, price=250.0, concert=2, nrPlaces=2}
+Ticket{id=2, price=500.0, concert=3, nrPlaces=1}
+Ticket{id=3, price=200.0, concert=4, nrPlaces=4}
+Ticket{id=4, price=300.0, concert=5, nrPlaces=3}
+Ticket{id=5, price=350.0, concert=6, nrPlaces=2}
